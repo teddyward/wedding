@@ -1,4 +1,4 @@
-<img class="page-header-image" src="static/bwdancingcover.jpeg">
+<img class="page-header-image" src="bwdancingcover.jpeg">
 
 <div class="page-title">
     <div>LET'S CELEBRATE!</div>
