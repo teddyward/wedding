@@ -13,10 +13,20 @@
     </div>
     <div class="faq-group">
         <div class="faq-question">
+            What's your vaccination policy?
+        </div>
+        <div class="faq-answer">
+            You must be vaccinated to attend. Upload link here.
+        </div>
+    </div>
+    <div class="faq-group">
+        <div class="faq-question">
             Do you have a registry?
         </div>
         <div class="faq-answer">
-            No. Please refrain from getting us a gift. If you must, charity.
+            We would prefer not to have physical gifts; if you feel obliged
+            to give something, please donate to our charity pool which we will
+            use to fund some of our favorite organizations: the NRDC, [others]
         </div>
     </div>
     <div class="faq-group">

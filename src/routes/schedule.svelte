@@ -12,8 +12,6 @@
             Note that this is a Saturday (before memorial day). We understand that
             this is somewhat unusual, but to help our many guests who have to travel
             from the west coast, we scheduled this for a long weekend.
-            We understand that many people may have other plans for
-            their long weekend, but we hope to see you if you can make it. 
         </div>
     </div>
     <div class="timeline-section" data-date="5.29.22">
@@ -54,6 +52,6 @@
 
     .timeline-section:nth-child(odd)::before {
         left: auto;
-        right: calc(50% + 25px) !important;
+        right: calc(50% + 30px) !important;
     }
 </style>

@@ -1,7 +1,7 @@
 <img class="page-header-image" src="bwdancingcover.jpeg">
 
 <div class="page-title">
-    <div>LET'S CELEBRATE!</div>
+    <div>CELEBRATION OF MARRIAGE</div>
 </div>
 
 <div class="page-content">
@@ -16,6 +16,8 @@
             Durham, North Carolina
         </div>
     </div>
+    <div class="timeline-header">It's been a wonderful, winding journey...</div>
+    <div></div>
     <div class="timeline-section" data-date="7.25.15">
         <div class="section-header">
             WHEN FRIENDS BECAME PARTNERS
@@ -68,5 +70,9 @@
         display: flex;
         flex-direction: column;
         height: 80%;
+    }
+
+    .timeline-header {
+        padding-bottom: 16px;
     }
 </style>
