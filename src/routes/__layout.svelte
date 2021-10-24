@@ -1,5 +1,6 @@
 <script lang="ts">
 	import '../app.css';
+    import '../timeline.css';
 </script>
 
 <div class="primary app-container">

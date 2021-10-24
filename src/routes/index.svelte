@@ -16,12 +16,9 @@
             Durham, North Carolina
         </div>
     </div>
-    <div class="section">
+    <div class="timeline-section" data-date="7.25.15">
         <div class="section-header">
             WHEN FRIENDS BECAME PARTNERS
-            <div class="section-date">
-                7.25.15
-            </div>
         </div>
         <div class="section-body">
             We met during orientation week as first-years at Duke
@@ -31,12 +28,9 @@
             our feelings with one another and have been entwined ever since.
         </div>
     </div>
-    <div class="section">
+    <div class="timeline-section" data-date="6.30.19">
         <div class="section-header">
             SHARED PROPOSAL
-            <div class="section-date">
-                6.30.19
-            </div>
         </div>
         <div class="section-body">
             We’d known for a long time that we would spend our lives together.
@@ -46,12 +40,9 @@
             nodded and said, “Yes, will you marry me?” and Teddy replied, “Of course.”
         </div>
     </div>
-    <div class="section">
+    <div class="timeline-section" data-date="5.30.21">
         <div class="section-header">
             A SMALL CEREMONY
-            <div class="section-date">
-                5.30.2021
-            </div>
         </div>
         <div class="section-body">
             On a chilly day in May, we gathered our immediate families and said, “I do.”
@@ -59,12 +50,9 @@
             connection, and labradors
         </div>
     </div>
-    <div class="section">
+    <div class="timeline-section" data-date="5.29.22">
         <div class="section-header">
             THE CELEBRATION OF MARRIAGE
-            <div class="section-date">
-                5.29.2022
-            </div>
         </div>
         <div class="section-body">
             We are so excited to bring all of our loved ones together –
@@ -80,9 +68,5 @@
         display: flex;
         flex-direction: column;
         height: 80%;
-    }
-
-    .section-body {
-        margin-top: 12px;
     }
 </style>
