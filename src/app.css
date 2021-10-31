@@ -35,3 +35,11 @@ div {
 .primary {
 	background-color: var(--background-color);
 }
+
+a {
+	color: var(--tertiary-color);
+}
+
+a:visited, a:hover {
+	color: var(--secondary-color);
+}

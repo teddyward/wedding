@@ -59,8 +59,8 @@
     }
     :global(.page-header-image) {
         display: block;
-        max-width: 100%;
-        min-width: 100%;
+        max-width: 95%;
+        min-width: 85%;
         max-height: 80%;
         height: auto;
     }

@@ -1,3 +1,6 @@
+<img class="page-header-image" src="bwmuseum.jpg"  alt="a museum we went to!">
+<div></div>
+
 <div class="page-title">
     <div>Schedule</div>
 </div>
@@ -5,35 +8,39 @@
 <div class="page-content">
     <div class="timeline-section" data-date="5.28.22">
         <div class="section-header">
-            WELCOME DRINKS
+            WELCOME DRINKS<br>
+            <i>Saturday</i>
         </div>
         <div class="section-body">
             TBD location<br>
-            Note that this is a Saturday (before memorial day). We understand that
-            this is somewhat unusual, but to help our many guests who have to travel
-            from the west coast, we scheduled this for a long weekend.
+            We understand that this is somewhat unusual to start
+            a wedding on the Saturday before a holiday (Memorial Day),
+            but to help our many guests who have to travel,
+            we’ve scheduled this event over a long weekend.            
         </div>
     </div>
     <div class="timeline-section" data-date="5.29.22">
         <div class="section-header">
-            RECEPTION
+            RECEPTION<br>
+            <i>Sunday</i>
         </div>
         <div class="section-body">
             Museum of Life and Science, Durham.<br>
-            Cocktails at X PM in the butterfly garden.
-            Dinner at Y PM.
-            Contra dancing to follow.
-            We are not having another ceremony - just a party to celebrate the one
-            we already had.
+            Cocktails, hors d'oeuvres, toasts, and our vow exchange will be at 6:30PM in the butterfly garden courtyard.<br>
+            The butterfly garden will be open to guests from 7-8PM.<br>
+            Dinner under the white top will be served at 8PM.<br>
+            Contra dancing in the garden to follow.             
         </div>
     </div>
     <div class="timeline-section" data-date="5.30.22">
         <div class="section-header">
-            BRUNCH?
+            BRUNCH<br>
+            <i>Monday</i>
         </div>
         <div class="section-body">
+            
             TBD location<br>
-            (We haven't even started planning this yet) 
+            Details to follow
         </div>
     </div>
 </div>
