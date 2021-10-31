@@ -35,10 +35,10 @@
         <div class="faq-answer">
             No need to get us a gift, in fact we prefer that you don’t.
             If you feel obliged to give something, please donate to our charity pool,
-            which we will use to fund some of our favorite organizations, including:
-            the <a href="https://www.nrdc.org/about">National Resources Defense Council</a>,
-            the <a href="https://www.sunrisemovement.org/about/">Sunrise Movement</a>,
-            the <a href="https://www.splcenter.org/what-we-do">Southern Poverty Law Center</a>,
+            which we will use to fund some of our favorite organizations, including:<br>
+            the <a href="https://www.nrdc.org/about">National Resources Defense Council</a>,<br>
+            the <a href="https://www.sunrisemovement.org/about/">Sunrise Movement</a>,<br>
+            the <a href="https://www.splcenter.org/what-we-do">Southern Poverty Law Center</a>,<br>
             and the <a href="https://nami.org/About-NAMI">National Alliance on Mental Illness</a>.
         </div>
     </div>
@@ -47,10 +47,10 @@
             Where do you recommend staying?
         </div>
         <div class="faq-answer">
-            [Airbnb](https://www.airbnb.com/durham-nc/stays)’s in the area are a great option!<br>
-            [21C Museum Hotel](https://www.21cmuseumhotels.com/durham) in Downtown Durham<br>
-            [Unscripted Hotel](https://www.unscriptedhotels.com/) in Downtown Durham<br>
-            [Aloft](https://www.marriott.com/hotels/travel/rduld-aloft-durham-downtown/) in Downtown Durham
+            <a href="https://www.airbnb.com/durham-nc/stays">Airbnb</a>’s in the area are a great option!<br>
+            <a href="https://www.21cmuseumhotels.com/durham">21C Museum Hotel</a> in Downtown Durham<br>
+            <a href="https://www.unscriptedhotels.com/">Unscripted Hotel</a> in Downtown Durham<br>
+            <a href="https://www.marriott.com/hotels/travel/rduld-aloft-durham-downtown/">Aloft</a> in Downtown Durham
         </div>
     </div>
     <div class="faq-group">
@@ -76,8 +76,8 @@
             Why does this website say "not secure"?
         </div>
         <div class="faq-answer">
-            Teddy was extremely stubborn about building this website himself, but also didn't want
-            to pay for Certificate Management.
+            Teddy was extremely stubborn about building this website himself, but gave up
+            with Google Domains. Sorry.
         </div>
     </div>
 </div>
@@ -88,5 +88,6 @@
     }
     .faq-question {
         font-weight: bolder;
+        font-size: 17px;
     }
 </style>
