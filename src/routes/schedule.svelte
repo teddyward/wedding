@@ -26,8 +26,8 @@
         </div>
         <div class="section-body">
             Museum of Life and Science, Durham.<br>
-            Cocktails, hors d'oeuvres, toasts, and our vow exchange will be at 6:30PM in the butterfly garden courtyard.<br>
-            The butterfly garden will be open to guests from 7-8PM.<br>
+            Cocktails, hors d'oeuvres, toasts, and our vow exchange will be at 6:30PM in the butterfly house courtyard.<br>
+            The butterfly house will be open to guests from 7-8PM.<br>
             Dinner under the white top will be served at 8PM.<br>
             Contra dancing in the garden to follow.             
         </div>
