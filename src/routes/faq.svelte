@@ -78,7 +78,8 @@
         </div>
         <div class="faq-answer">
             Teddy was extremely stubborn about building this website himself, but gave up
-            with the SSL feature on Google Domains. Sorry.
+            with the SSL feature on Google Domains. Sorry.<br>
+            Your vaccination upload (via Google Forms) will still be secure.
         </div>
     </div>
 </div>
