@@ -38,8 +38,9 @@ div {
 
 a {
 	color: var(--secondary-color);
+	font-weight: bold;
 }
 
 a:visited, a:hover {
-	color: var(--tertiary-color);
+	color: var(--secondary-color);
 }
