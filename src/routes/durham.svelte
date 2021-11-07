@@ -12,7 +12,7 @@
         var map = new mapboxgl.Map({
             container: 'map', // container id
             style: 'mapbox://styles/throwaway8675309/cku1unoy72a8318o6irmyf83v', // style URL
-            center: [-78.94587, 36.02487], // starting position [lng, lat]
+            center: [-78.90581, 36.00548], // starting position [lng, lat]
             zoom: 12.32 // starting zoom
         });
     });

@@ -13,7 +13,8 @@
             When we got engaged in 2019, we originally planned to have our wedding at
             the Museum of Life Science in May of 2021, but then postponed the party
             because of the pandemic. But we were just so excited to get married,
-            so rather than have a 3-year engagement, we had a small wedding ceremony in May 2021.
+            so rather than have a 3-year engagement, we had a small wedding ceremony with immediate
+            family in May 2021.<br>
             But! We still want to party with all of our loved ones, so we’ve planned this
             “celebration of marriage” for May 2022, on our 1 year anniversary.
         </div>
@@ -23,7 +24,7 @@
             What's your vaccination policy?
         </div>
         <div class="faq-answer">
-            You must be vaccinated against COVID-19 to attend the event.
+            You must be vaccinated against COVID-19 to attend the events.
             Any vaccine provider (JnJ, Pfizer, Moderna, AstraZeneca, etc.) is acceptable.
             <a href="https://docs.google.com/forms/d/e/1FAIpQLScKQlDLtLs0QeaaD2JkPNPG-BaktlfA0dSnakjXPEN4ku5GFA/viewform">Please upload your proof of vaccination here</a>.
         </div>
@@ -77,7 +78,7 @@
         </div>
         <div class="faq-answer">
             Teddy was extremely stubborn about building this website himself, but gave up
-            with Google Domains. Sorry.
+            with the SSL feature on Google Domains. Sorry.
         </div>
     </div>
 </div>
