@@ -8,7 +8,7 @@
 <div class="page-content">
     <div class="timeline-section" data-date="5.27.22">
         <div class="section-header">
-            Pre-game game<br>
+            "PRE-GAME"<br>
             <i>Friday</i>
         </div>
         <div class="section-body">
