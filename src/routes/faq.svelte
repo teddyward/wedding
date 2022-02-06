@@ -48,28 +48,24 @@
             Where do you recommend staying?
         </div>
         <div class="faq-answer">
-            <a href="https://www.airbnb.com/durham-nc/stays">Airbnb</a>’s in the area are a great option!<br>
-            <a href="https://www.21cmuseumhotels.com/durham">21C Museum Hotel</a> in Downtown Durham<br>
+            We will have a hotel block at the <a href="https://www.21cmuseumhotels.com/durham">21C Museum Hotel</a> in Downtown Durham<br>
+            <a href="https://www.airbnb.com/durham-nc/stays">Airbnb</a>’s in the area are also a great option!<br>
+            <br>
+            If those don't work for you...
             <a href="https://www.unscriptedhotels.com/">Unscripted Hotel</a> in Downtown Durham<br>
             <a href="https://www.marriott.com/hotels/travel/rduld-aloft-durham-downtown/">Aloft</a> in Downtown Durham
         </div>
     </div>
     <div class="faq-group">
         <div class="faq-question">
-            What is Contra dancing, and why is that part of the wedding?
+            Didn't this website used to have something about contra dancing?
         </div>
         <div class="faq-answer">
-            Contra dancing consists of couples dancing in long lines with pre-set steps
-            to the tune of high-spirited traditional folk music. Throughout a song,
-            each dancer will move “down the line” until they’ve danced a number of steps
-            with each person in the line. This style of dancing has its roots in English, Scottish,
-            and French traditional dancing and has been popularized in modern times in the US in
-            New England and Appalachia. 
-            <br>We have loved contra dancing throughout our friendship and life as a couple,
-            and we think it is a great way to bring folks together!
-            Still not sure about contra dancing? There will be a caller and a
-            teaching session at the beginning of the dance to warm up.
-            You can also read a little more about it <a href="https://chapelhillmagazine.com/contra-dancing/">here</a>. 
+            Originally, we were considering doing contra dancing (line dancing)
+            at our wedding, but due to rising COVID cases, decided that a type
+            of dancing involving rapidly switching between random partners might
+            not be the move. Instead, we will have a jazz band 
+            (<a href="https://www.youtube.com/watch?v=T8LXVz2Mwe0">John Brown</a>).
         </div>
     </div>
     <div class="faq-group">
