@@ -48,12 +48,12 @@
             Where do you recommend staying?
         </div>
         <div class="faq-answer">
-            We will have a hotel block at the <a href="https://www.21cmuseumhotels.com/durham">21C Museum Hotel</a> in Downtown Durham<br>
-            <a href="https://www.airbnb.com/durham-nc/stays">Airbnb</a>’s in the area are also a great option!<br>
-            <br>
-            If those don't work for you...
-            <a href="https://www.unscriptedhotels.com/">Unscripted Hotel</a> in Downtown Durham<br>
-            <a href="https://www.marriott.com/hotels/travel/rduld-aloft-durham-downtown/">Aloft</a> in Downtown Durham
+            We will have a hotel block at the <a href="https://www.21cmuseumhotels.com/durham">21C Museum Hotel</a> in Downtown Durham. Link will be here shortly.<br>
+            <a href="https://www.airbnb.com/durham-nc/stays">Airbnb</a>’s in the area are also a great option! We recommend staying in the Trinity Park, Duke Park, or Old North Durham neighborhoods if you want to be centrally located.<br>
+            <br><br>
+            If those don't work for you for whatever reason...
+            <a href="https://www.unscriptedhotels.com/">Unscripted Hotel</a> in Downtown Durham is just across the street from the 21c<br>
+            <a href="https://www.marriott.com/hotels/travel/rduld-aloft-durham-downtown/">Aloft</a> in Downtown Durham is also an option
         </div>
     </div>
     <div class="faq-group">
