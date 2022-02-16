@@ -7,6 +7,19 @@
 <div class="page-content">
     <div class="faq-group">
         <div class="faq-question">
+            Where do you recommend staying?
+        </div>
+        <div class="faq-answer">
+            We have a hotel block at the 21C Museum Hotel in Downtown Durham. Please use <a href="https://book.passkey.com/event/50298668/owner/50175989/landing">this link</a> to book at a discounted rate.<br>
+            <a href="https://www.airbnb.com/durham-nc/stays">Airbnb</a>’s in the area are also a great option! We recommend staying in the Trinity Park, Duke Park, or Old North Durham neighborhoods if you want to be centrally located.<br>
+            <br><br>
+            If those don't work for you for whatever reason...
+            <a href="https://www.unscriptedhotels.com/">Unscripted Hotel</a> in Downtown Durham is just across the street from the 21c<br>
+            <a href="https://www.marriott.com/hotels/travel/rduld-aloft-durham-downtown/">Aloft</a> in Downtown Durham is also an option
+        </div>
+    </div>
+    <div class="faq-group">
+        <div class="faq-question">
             Didn’t y’all already get married?
         </div>
         <div class="faq-answer">
@@ -41,19 +54,6 @@
             the <a href="https://www.sunrisemovement.org/about/">Sunrise Movement</a>,<br>
             the <a href="https://www.splcenter.org/what-we-do">Southern Poverty Law Center</a>,<br>
             and the <a href="https://nami.org/About-NAMI">National Alliance on Mental Illness</a>.
-        </div>
-    </div>
-    <div class="faq-group">
-        <div class="faq-question">
-            Where do you recommend staying?
-        </div>
-        <div class="faq-answer">
-            We will have a hotel block at the <a href="https://www.21cmuseumhotels.com/durham">21C Museum Hotel</a> in Downtown Durham. Link will be here shortly.<br>
-            <a href="https://www.airbnb.com/durham-nc/stays">Airbnb</a>’s in the area are also a great option! We recommend staying in the Trinity Park, Duke Park, or Old North Durham neighborhoods if you want to be centrally located.<br>
-            <br><br>
-            If those don't work for you for whatever reason...
-            <a href="https://www.unscriptedhotels.com/">Unscripted Hotel</a> in Downtown Durham is just across the street from the 21c<br>
-            <a href="https://www.marriott.com/hotels/travel/rduld-aloft-durham-downtown/">Aloft</a> in Downtown Durham is also an option
         </div>
     </div>
     <div class="faq-group">
