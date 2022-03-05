@@ -11,7 +11,7 @@
         </div>
         <div class="faq-answer">
             We have a hotel block at the 21C Museum Hotel in Downtown Durham. Please use <a href="https://book.passkey.com/event/50298668/owner/50175989/landing">this link</a> to book at a discounted rate.<br>
-            <a href="https://www.airbnb.com/durham-nc/stays">Airbnb</a>’s in the area are also a great option! We recommend staying in the Trinity Park, Duke Park, or Old North Durham neighborhoods if you want to be centrally located.<br>
+            <a href="https://www.airbnb.com/s/Old-North-Durham--Durham--North-Carolina--United-States/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_dates%5B%5D=april&flexible_trip_dates%5B%5D=march&flexible_trip_lengths%5B%5D=weekend_trip&date_picker_type=calendar&checkin=2022-05-28&checkout=2022-05-30&adults=2&source=structured_search_input_header&search_type=autocomplete_click&query=Old%20North%20Durham%2C%20Durham%2C%20North%20Carolina%2C%20United%20States&place_id=ChIJU_SlXXjkrIkRtub3g8YQPWY">Airbnb</a>’s in the area are also a great option! We recommend staying in the Trinity Park, Duke Park, or Old North Durham neighborhoods if you want to be centrally located.<br>
             <br><br>
             If those don't work for you for whatever reason...
             <a href="https://www.unscriptedhotels.com/">Unscripted Hotel</a> in Downtown Durham is just across the street from the 21c<br>
