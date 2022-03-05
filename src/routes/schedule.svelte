@@ -21,11 +21,11 @@
     <div class="timeline-section" data-date="5.28.22">
         <div class="section-header">
             WELCOME DRINKS<br>
-            <i>Saturday</i>
+            <i>Saturday, 8PM</i>
         </div>
         <div class="section-body">
-            Ponysaurus Brewing Company<br>
-            Pizza and beer at the best brewery in Durham.<br>
+            Vin Rouge<br>
+            2010 Hillsborough Rd.<br>
             We understand that this is somewhat unusual to start
             a wedding on the Saturday before a holiday (Memorial Day),
             but to help our many guests who have to travel,
@@ -35,7 +35,7 @@
     <div class="timeline-section" data-date="5.29.22">
         <div class="section-header">
             RECEPTION<br>
-            <i>Sunday</i>
+            <i>Sunday, 6:30PM</i>
         </div>
         <div class="section-body">
             Museum of Life and Science, Durham.<br>
