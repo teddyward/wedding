@@ -1,4 +1,4 @@
-<img class="page-header-image" src="bwmuseum.jpg"  alt="a museum we went to!">
+<img class="page-header-image" src="invite.png"  alt="a real first look at our paper invite!">
 <div></div>
 
 <div class="page-title">

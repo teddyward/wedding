@@ -1,4 +1,4 @@
-<img class="page-header-image" src="bwmuseum.jpg"  alt="a museum we went to!">
+<img class="page-header-image" src="watsonhome.jpeg"  alt="watson at OUR address!">
 <div></div>
 
 <div class="page-title">
