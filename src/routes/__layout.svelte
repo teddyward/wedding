@@ -9,6 +9,7 @@
     <nav>
         <a href="/">Home</a>
         <a href="/schedule">Schedule</a>
+        <a href="/rsvp">RSVP</a>
         <a href="/durham">Durham</a>
         <a href="/photos">Photos</a>
         <a href="/faq">FAQ</a>

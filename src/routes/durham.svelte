@@ -23,6 +23,7 @@
     #map {
         height: 100%;
         margin-top: 20px;
+        min-width: 90%;
         width: 90%;
     }
     .durham-page-title {
