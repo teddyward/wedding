@@ -14,7 +14,7 @@
         <div class="section-body">
             Durham Bulls Athletic Park<br>
             For anyone who is in town early, we have reserved boxes
-            at the Durham Bulls minor league stadium - famously profiled in the Kevin Costner
+            at the minor league stadium for the Durham Bulls - "famously" profiled in the Kevin Costner
             and Susan Sarandon movie <i>Bull Durham</i> - as they play the Charlotte Knights.<br>
             Message us if you'll be around, and we'll send you a ticket!
         </div>
