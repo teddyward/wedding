@@ -55,9 +55,9 @@
             <i>Monday</i>
         </div>
         <div class="section-body">
-            1502 Hollywood Street<br>
-            We will be honored to host any guests at our house, with Rise Biscuits
-            catering, before you make the (potentially long) trip back home.
+            21c Museum Hotel<br>
+            Before you make the (potentially long) trip back home, we'd love to
+            see you off with some food at the hotel restaurant.
         </div>
     </div>
 </div>
