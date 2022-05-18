@@ -16,7 +16,7 @@
             For anyone who is in town early, we have reserved boxes
             at the minor league stadium for the Durham Bulls - "famously" profiled in the Kevin Costner
             and Susan Sarandon movie <i>Bull Durham</i> - as they play the Charlotte Knights.<br>
-            Message us if you'll be around, and we'll send you a ticket!
+            Text Teddy (847 346 9673) if you'll be around, and he'll send you a ticket!
         </div>
     </div>
     <div class="timeline-section" data-date="5.28.22">
@@ -32,7 +32,8 @@
             We understand that this is somewhat unusual to start
             a wedding on the Saturday before a holiday (Memorial Day),
             but to help our many guests who have to travel,
-            we've scheduled this event over a long weekend.            
+            we've scheduled this event over a long weekend.<br>
+            There's a large parking lot nearby on Hillsborough Road, or you can drive/Uber/Lyft.            
         </div>
     </div>
     <div class="timeline-section" data-date="5.29.22">
@@ -42,22 +43,26 @@
         </div>
         <div class="section-body">
             Museum of Life and Science, Durham.<br>
-            Cocktails, hors d'oeuvres, toasts, and our vow exchange will be at 6:30PM in the butterfly house courtyard.<br>
-            The butterfly house will be open to guests from 7-8PM.<br>
-            Dinner under the white top will be served at 8PM, catered by Virginia and Co.<br>
+            A shuttle will pick up from the 21c Hotel at 6pm and 6:20pm, or you can drive/Uber/Lyft.<br>
+            Cocktails, hors d'oeuvres, and our vow exchange will be at 6:30PM in the butterfly house courtyard.<br>
+            The butterfly house will be open to guests from 7-7:45PM.<br>
+            Dinner under the white top will be served at 8PM, catered by Virginia and Co. 
             Music and dancing in the garden, to follow.<br>
+            A shuttle will leave for the 21c Hotel at 10:30pm,
+            and to the after party at Surf Club at 11pm.
             Afterparty at Surf Club in downtown Durham (open til 2am!)
         </div>
     </div>
     <div class="timeline-section" data-date="5.30.22">
         <div class="section-header">
             BRUNCH<br>
-            <i>Monday</i>
+            <i>Monday, 10AM to Noon</i>
         </div>
         <div class="section-body">
-            21c Museum Hotel<br>
+            21c Museum Hotel, 2nd Floor Gallery<br>
             Before you make the (potentially long) trip back home, we'd love to
-            see you off with some food at the hotel restaurant.
+            see you off with some food at the hotel gallery (not the first floor restaurant).<br>
+            Valet parking is included if you ask the waiter at brunch for a card.
         </div>
     </div>
 </div>
