@@ -14,7 +14,7 @@
         <div class="section-body">
             Durham Bulls Athletic Park, 409 Blackwell Street, Durham<br>
             For anyone who is in town early, we have reserved a section
-            for AAA champions Durham Bulls - "famously" profiled in the Kevin Costner and Susan Sarandon movie <i>Bull Durham</i> - as they play the Charlotte Knights.<br>
+            to watch the AAA champions Durham Bulls - "famously" "profiled" in the Kevin Costner and Susan Sarandon movie <i>Bull Durham</i> - as they play the Charlotte Knights.<br>
             Text Teddy (847 346 9673) if you'll be around, and he'll send you a ticket! You'll have to create a Durham Bulls account to access it, unfortunately, but then you can screenshot it or add it to an Apple wallet.<br>
             The ballpark is within walking distance of most places people are staying, but there's also parking at the American Tobacco Campus or the Corcoran Street Garage.
         </div>
