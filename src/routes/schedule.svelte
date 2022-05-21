@@ -13,7 +13,7 @@
         </div>
         <div class="section-body">
             Durham Bulls Athletic Park, 409 Blackwell Street, Durham<br>
-            For anyone who is in town early, we have reserved a section
+            For anyone who is local or in town early, we have reserved a section
             to watch the AAA champions Durham Bulls - "famously" "profiled" in the Kevin Costner and Susan Sarandon movie <i>Bull Durham</i> - as they play the Charlotte Knights.<br>
             Text Teddy (847 346 9673) if you'll be around, and he'll send you a ticket! You'll have to create a Durham Bulls account to access it, unfortunately, but then you can screenshot it or add it to an Apple wallet.<br>
             The ballpark is within walking distance of most places people are staying, but there's also parking at the American Tobacco Campus or the Corcoran Street Garage.
@@ -26,7 +26,7 @@
         </div>
         <div class="section-body">
             Vin Rouge, 2010 Hillsborough Rd, Durham<br>
-            We can't wait to see you there!<br>
+            We can't wait to see you for cocktails at our favorite French restaurant!<br>
             If you're looking for things to do before or after, check out the "Durham" tab.<br>
             There's a large parking lot nearby on Hillsborough Road, or you can Uber/Lyft. Please don't drink and drive!
         </div>
@@ -38,12 +38,21 @@
         </div>
         <div class="section-body">
             Museum of Life and Science, 433 W Murray Ave, Durham.<br>
-            A shuttle will pick up from the 21c Hotel at 6pm and 6:20pm, or you can drive/Uber/Lyft.<br>
-            Cocktails, hors d'oeuvres, and our vow exchange will be at 6:30PM in the butterfly house courtyard.<br>
-            The butterfly house will be open to guests from 7-7:45PM.<br>
+            If you'd like to take a shuttle, please meet in front of the 21c Hotel in downtown Durham to catch a shuttle at <strong>6:00PM</strong>. The last shuttle will leave at 6:25pm. You can also drive/Uber/Lyft, but again, please don't drink and drive.<br>
+            Cocktails, hors d'oeuvres, and our vow renewal will be at 6:30PM in the butterfly house courtyard.<br>
             Dinner under the white top will be served at 8PM, followed by music and dancing<br>
             A shuttle will leave for the 21c Hotel at 10:30pm,
-            and another shuttle will leave to the <strong>after-party at Surf Club at 11pm</strong>.
+            and another shuttle will leave to the after-party at Surf Club at 11pm.
+        </div>
+    </div>
+    <div class="timeline-section" data-date="5.30.22">
+        <div class="section-header">
+            AFTER-PARTY<br>
+            <i>Sunday, 11pm to 2am</i>
+        </div>
+        <div class="section-body">
+            Kotuku Surf Club, 703 Rigsbee Ave, Durham<br>
+            The reception is beer and wine only, but the after-party shall not be. Surf Club is a bit of a dive, but you can duel us in bocce ball.
         </div>
     </div>
     <div class="timeline-section" data-date="5.30.22">
