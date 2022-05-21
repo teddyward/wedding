@@ -41,11 +41,9 @@
             A shuttle will pick up from the 21c Hotel at 6pm and 6:20pm, or you can drive/Uber/Lyft.<br>
             Cocktails, hors d'oeuvres, and our vow exchange will be at 6:30PM in the butterfly house courtyard.<br>
             The butterfly house will be open to guests from 7-7:45PM.<br>
-            Dinner under the white top will be served at 8PM, catered by Virginia and Co. 
-            Music and dancing in the garden, to follow.<br>
+            Dinner under the white top will be served at 8PM, followed by music and dancing<br>
             A shuttle will leave for the 21c Hotel at 10:30pm,
-            and another shuttle will leave to the after party at Surf Club at 11pm.
-            Afterparty at Surf Club in downtown Durham (open til 2am!)
+            and another shuttle will leave to the <strong>after-party at Surf Club at 11pm</strong>.
         </div>
     </div>
     <div class="timeline-section" data-date="5.30.22">
