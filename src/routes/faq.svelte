@@ -11,8 +11,8 @@
         </div>
         <div class="faq-answer">
             Semi-formal.<br>
-            Most of the event will be outdoors in a garden, and it's the south in late spring,
-            so we're expecting weather in the high 70s! Dress accordingly: you don't need to wear a full suit.
+            Most of the event will be outdoors in a garden; it's the south in late spring,
+            and we're expecting weather in the high 70s! Dress accordingly: you don't need to wear a full suit, and dancing will be on the lawn so don't bring heels if you don't want to go barefoot.
         </div>
     </div>
     <div class="faq-group">
