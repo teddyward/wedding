@@ -12,7 +12,7 @@
         <div class="faq-answer">
             Semi-formal.<br>
             Most of the event will be outdoors in a garden; it's the south in late spring,
-            and we're expecting weather in the high 70s! Dress accordingly: you don't need to wear a full suit, and dancing will be on the lawn so don't bring heels if you don't want to go barefoot.
+            and we're expecting weather in the high 70s! Dress accordingly: you don't need to wear a full suit. <strong>Dancing will be on the lawn</strong>, so don't bring heels if you don't want to go barefoot.
         </div>
     </div>
     <div class="faq-group">
@@ -31,11 +31,14 @@
     </div>
     <div class="faq-group">
         <div class="faq-question">
-            What's your vaccination policy?
+            What's your COVID policy?
         </div>
         <div class="faq-answer">
             You must be vaccinated against COVID-19 to attend the events.
-            Any vaccine provider (JnJ, Pfizer, Moderna, AstraZeneca, etc.) is acceptable.
+            Any vaccine provider (JnJ, Pfizer, Moderna, AstraZeneca, etc.) is acceptable.<br>
+            If you have the opportunity, it would be fantastic to test before attending the wedding.
+            We would <i>hope</i> it goes without saying, but if you do test positive, please don't come.
+            We will see you when you get better :)
         </div>
     </div>
     <div class="faq-group">
@@ -58,10 +61,12 @@
             When we got engaged in 2019, we originally planned to have our wedding at
             the Museum of Life Science in May of 2021, but then postponed the party
             because of the pandemic. But we were just so excited to get married,
-            so rather than have a 3-year engagement, we had a small wedding ceremony with immediate
-            family in May 2021.<br>
-            But! We still want to party with all of our loved ones, so we've planned this
-            “celebration of marriage” for May 2022, on our 1 year anniversary.
+            so we had a small wedding ceremony with immediate
+            family in May 2021. We are so grateful that we had the opportunity to make it official
+            with Bill and Jaci Lulow, before they passed.<br>
+            But! We still want to party with all of our loved ones, because we love parties! So we've planned this
+            “celebration of marriage” for May 2022, on our 1 year anniversary. It will probably feel a lot
+            like any other wedding, but hopefully a wee bit more casual :)
         </div>
     </div>
     <div class="faq-group">
